@@ -8,6 +8,6 @@ I'm a self-motivated individual with a keen interest in developing UX/UI designs
 Currently, I'm focused on implementing the MERN & PERN stack (MongoDB or PostgreSQL, Express.js, React, Node.js) to build robust and scalable web applications.
 
 - 💞️ I’m looking to collaborate on web applications, mobile app development and UI/UX design.
-- 📫 Reach me at (umaranwar.d.e.v@gmail.com)[umaranwar.d.e.v@gmail.com]
+- 📫 Reach me at umaranwar.d.e.v@gmail.com
 - 😄 Pronouns: He/Him
 
